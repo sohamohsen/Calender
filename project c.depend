@@ -1,0 +1,49 @@
+# depslib dependency file v1.0
+1656811709 source:d:\university\training l2\project c\main.c
+	<stdio.h>
+	<conio.h>
+	<windows.h>
+	"calendar.h"
+
+1656811754 d:\university\training l2\project c\calendar.h
+
+1656815730 source:c:\users\abdo\documents\project c\main.c
+	<stdio.h>
+	<conio.h>
+	<windows.h>
+	"calendar.h"
+
+1656815730 c:\users\abdo\documents\project c\calendar.h
+
+1656823908 source:c:\users\amahm\downloads\project c\project c\main.c
+	<stdio.h>
+	<conio.h>
+	<windows.h>
+	"calendar.h"
+
+1656823791 c:\users\amahm\downloads\project c\project c\calendar.h
+
+1656825782 source:c:\users\abdo\desktop\project c\project c\main.c
+	<stdio.h>
+	<conio.h>
+	<windows.h>
+	"calendar.h"
+
+1656826274 c:\users\abdo\desktop\project c\project c\calendar.h
+
+1656847385 source:c:\users\safeer\downloads\project c\project c\main.c
+	<stdio.h>
+	<conio.h>
+	<windows.h>
+	"calendar.h"
+
+1656855685 c:\users\safeer\downloads\project c\project c\calendar.h
+
+1662115026 source:c:\users\safeer\desktop\embedded\project c (1)\project c\project c\main.c
+	<stdio.h>
+	<conio.h>
+	<windows.h>
+	"calendar.h"
+
+1662115075 c:\users\safeer\desktop\embedded\project c (1)\project c\project c\calendar.h
+
